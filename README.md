@@ -25,8 +25,6 @@ The "Sleep Efficiency" dataset contains information about sleep patterns and fac
 ## Repository Structure
 - `Sleep_Efficiency.csv`: Contains the raw data file used in the analysis.
 - `Sleep_Efficiency_dataset.ipynb`: Jupyter notebook containing the code for data exploration, preprocessing, analysis, and visualization.
-- `results/`: Output files, visualizations, and summaries generated during the analysis.
-- `README.md`: This file, providing an overview of the project.
 
 ## Dependencies
 - Python
